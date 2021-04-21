@@ -5,3 +5,7 @@ body {
   border: 3px solid grey;
   color: brown;
 }
+.btn-dark {
+  background: dimgrey;
+  color: aliceblue;
+}
